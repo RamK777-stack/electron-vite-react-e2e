@@ -18,4 +18,7 @@ npm install
 
 # develop
 npm run dev
+
+# run e2e test
+npm run e2e
 ```
